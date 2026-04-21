@@ -1,6 +1,6 @@
 # Getting Started with Todo React App
 
-## `npm i`
+### `npm i`
 
 ### `npm start`
 
@@ -19,7 +19,11 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-------------- Images of the site -----------------
+<br/>
+
+## `Images`
+
 <img width="1675" height="844" alt="Снимок экрана 2026-04-21 в 23 29 43" src="https://github.com/user-attachments/assets/3d81740c-ccdf-428a-81fa-e4944e237f04" />
+<br/>
 
 <img width="1659" height="837" alt="Снимок экрана 2026-04-21 в 23 29 32" src="https://github.com/user-attachments/assets/925d3aab-699a-4f38-824e-cc61c820732e" />
