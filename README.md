@@ -21,4 +21,5 @@ Your app is ready to be deployed!
 
 ------------- Images of the site -----------------
 <img width="1675" height="844" alt="Снимок экрана 2026-04-21 в 23 29 43" src="https://github.com/user-attachments/assets/3d81740c-ccdf-428a-81fa-e4944e237f04" />
+
 <img width="1659" height="837" alt="Снимок экрана 2026-04-21 в 23 29 32" src="https://github.com/user-attachments/assets/925d3aab-699a-4f38-824e-cc61c820732e" />
